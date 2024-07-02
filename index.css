@@ -1,6 +1,11 @@
 body {
     margin: 0;
     text-align: center;
+    background-size: cover;
+    font-family: 'Open Sans', 'Cursed Timer ULiL', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
 }
 
 .score {
